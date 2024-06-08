@@ -14,23 +14,22 @@
 )
 
 #cvEntry(
-  title: [Bachelors of Science in Computer Science],
-  society: [University of California, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
+  title: [Bachelor of Business Administration],
+  society: [Memorial University of Newfoundland],
+  date: [Sep 2015 - Jun 2016],
+  location: [Corner Brook, NL],
   description: list(
-    [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-    [Course: Database Systems #hBar() Computer Networks #hBar() Software Engineering #hBar() Artificial Intelligence]
+    [Participated in a partnership program with the College of the North Atlantic to complete the BBA program.],
+    [Focused on electives in finance and economics to complement skills in the accounting field.]
   )
 )
 
 #cvEntry(
-  title: [Bachelors of Science in Computer Science],
-  society: [University of California, Los Angeles],
-  date: [2018 - 2020],
-  location: [USA],
+  title: [Business Management (Accounting) Diploma],
+  society: [College of the North Atlantic],
+  date: [Sep 2011 - Jun 2014],
+  location: [Grand Falls-Windsor, NL],
   description: list(
-    [Thesis: Exploring the Use of Machine Learning Algorithms for Predicting Stock Prices: A Comparative Study of Regression and Time-Series Models],
-    [Course: Database Systems #hBar() Computer Networks #hBar() Software Engineering #hBar() Artificial Intelligence]
+    [Completed electives in tax, payroll, and the oil and gas industry to gain specialized knowledge for competitive industries.]
   )
 )

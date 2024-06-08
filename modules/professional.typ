@@ -3,37 +3,63 @@
 #cvSection("Professional Experience")
 
 #cvEntry(
-    title: [Director of Data Science],
-    society: [XYZ Corporation],
-    logo: "../src/logos/xyz_corp.png",
-    date: [2020 - Present],
-    location: [San Francisco, CA],
-    description: list(
-      [Lead a team of data scientists and analysts to develop and implement data-driven strategies, develop predictive models and algorithms to support decision-making across the organization],
-      [Collaborate with executive leadership to identify business opportunities and drive growth, implement best practices for data governance, quality, and security],
-    ),
-    tags: ("Tags Example here", "Dataiku", "Snowflake", "SparkSQL")
+  title: [Software Developer],
+  society: [Genoa Design International],
+  date: [Oct 2022 - Jan 2024],
+  location: [Mount Pearl, NL (Remote)],
+  description: list(
+    [Led and contributed to full-stack development, showcasing proficiency in software design, development, and deployment.],
+    [Utilized key technologies: React for dynamic front-end, ASP.NET for backend, and SQL Server for efficient database management.],
+    [Collaborated with cross-functional Agile teams to ensure effective project delivery and continuous integration.]
+  )
 )
 
 #cvEntry(
-    title: [Data Analyst],
-    society: [ABC Company],
-    logo: "../src/logos/abc_company.png",
-    date: [2017 - 2020],
-    location: [New York, NY],
+  title: [Software Developer Intern],
+  society: [Genoa Design International],
+  date: [Jul 2022 - Aug 2022],
+  location: [Mount Pearl, NL (Remote)],
+  description: list(
+    [Engaged in a comprehensive software development internship, gaining hands-on experience with modern technologies.],
+    [Assisted in various development tasks, laying the foundation for a successful transition to a full-time Software Developer role.]
+  )
+)
+
+#cvEntry(
+  title: [Financial Services Manager],
+  society: [Bank of Montreal],
+  date: [May 2016 - June 2018],
+  location: [Stephenville, NL],
+  description: list(
+    [Managed a portfolio of clients, providing expert advice on banking, lending, and investment solutions.],
+    [Exceeded sales targets consistently for lending, investing, and everyday banking products.],
+    [Opened and managed customer accounts, ensuring compliance with banking regulations.],
+    [Advised clients on financial planning, tailoring solutions to meet their individual needs.]
+  )
+)
+
+#cvEntry(
+    title: [Front Desk Clerk],
+    society: [Glynmill Inn],
+    date: [Jun 2015 - Sep 2015],
+    location: [Corner Brook, NL],
     description: list(
-      [Analyze large datasets using SQL and Python, collaborate with cross-functional teams to identify business insights],
-      [Create data visualizations and dashboards using Tableau, develop and maintain data pipelines using AWS],
+      [Performed night audit tasks, ensuring accurate balancing and closing of daily accounts.],
+      [Managed guest check-ins, providing information about hotel services, charges, and facilities.],
+      [Delivered concierge services, assisting guests with information about the hotel and the surrounding area.],
+      [Bartended during evening hours, offering food services and ensuring a positive guest experience.]
     )
 )
 
 #cvEntry(
-    title: [Data Analysis Intern],
-    society: [PQR Corporation],
-    logo: "../src/logos/pqr_corp.png",
-    date: [Summer 2017],
-    location: [Chicago, IL],
+    title: [Youth Technology Intern],
+    society: [Corner Brook Public Library],
+    date: [Dec 2014 - Jun 2015],
+    location: [Corner Brook, NL],
     description: list(
-      [Assisted with data cleaning, processing, and analysis using Python and Excel, participated in team meetings and contributed to project planning and execution],
+      [Created presentations and interactive activities aimed at educating individuals of all ages on practical internet and computer technologies, including Windows, Android, iOS, and common web platforms.],
+      [Facilitated workshops and sessions to enhance digital literacy and empower community members with essential technological skills for everyday use.],
+      [Provided one-on-one assistance to library patrons seeking help with technology-related queries, fostering a supportive learning environment.],
+      [Assisted in the development and maintenance of the library's digital resources, ensuring accessibility and relevance to the community's needs.]
     )
 )

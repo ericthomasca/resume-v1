@@ -31,14 +31,12 @@
   "": "Cover Letter",
 )
 
-#let nonLatinOverwriteInfo = (
-  // submit an issue if you think other variables should be in this array
-)
+#let nonLatinOverwriteInfo = ()
 
 /* Layout Setting */
 #let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
 
-#let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
+#let profilePhoto = "" // Leave blank if profile photo is not needed
 
 #let varLanguage = "" // INFO: value must matches folder suffix; i.e "zh" -> "./modules_zh"
 
@@ -46,6 +44,6 @@
 
 #let varDisplayLogo = false // Decide if you want to display organisation logo or not
 
-#let ifAIInjection = false // Decide if you want to inject AI prompt or not
+#let ifAIInjection = true // Decide if you want to inject AI prompt or not
 
-#let keywordsInjectionList = ("Data Analyst", "GCP", "Python", "SQL", "Tableau",) // Leave blank if you don't want to inject keywords
+#let keywordsInjectionList = ("Data Analyst", "GCP", "Python", "SQL", "Tableau",) 
