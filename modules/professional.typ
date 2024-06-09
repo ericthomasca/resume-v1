@@ -58,8 +58,8 @@
     location: [Corner Brook, NL],
     description: list(
       [Created presentations and interactive activities aimed at educating individuals of all ages on practical internet and computer technologies, including Windows, Android, iOS, and common web platforms.],
-      [Facilitated workshops and sessions to enhance digital literacy and empower community members with essential technological skills for everyday use.],
-      [Provided one-on-one assistance to library patrons seeking help with technology-related queries, fostering a supportive learning environment.],
-      [Assisted in the development and maintenance of the library's digital resources, ensuring accessibility and relevance to the community's needs.]
+      [Facilitated workshops to enhance digital literacy and empower patrons with essential technological skills for everyday use.],
+      [Provided assistance to library patrons seeking help with technology-related queries, fostering a supportive learning environment.],
+      [Assisted in the development of the library's digital resources, ensuring accessibility and relevance to the community's needs.]
     )
 )
