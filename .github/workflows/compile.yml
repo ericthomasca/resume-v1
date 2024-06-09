@@ -21,12 +21,12 @@ jobs:
         with:
           version: 'latest'
 
-      - run: typst compile resume.typ --font-path ./src/fonts
-      - run: typst compile letter.typ --font-path ./src/fonts
+      - run: typst compile resume.typ ./output/resume.pdf --font-path ./src/fonts
+      - run: typst compile letter.typ ./output/letter.pdf --font-path ./src/fonts
 
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v3
-        with:
-          name: output
-          path: ./*.pdf
-          if-no-files-found: error
+      # - name: Upload Artifacts
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: output
+      #     path: ./*.pdf
+      #     if-no-files-found: error
