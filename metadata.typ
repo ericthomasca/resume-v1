@@ -20,7 +20,7 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
+  "": [Experienced Software Developer seeking a full-time position starting immediately],
 )
 
 #let cvFooterInternational = (
@@ -46,4 +46,4 @@
 
 #let ifAIInjection = true // Decide if you want to inject AI prompt or not
 
-#let keywordsInjectionList = ("Data Analyst", "GCP", "Python", "SQL", "Tableau",) 
+#let keywordsInjectionList = ("Software Developer", "Full-Stack", "React", "ASP.NET", "SQL Server", "Agile", "Scrum", "Agile Methodology", "Continuous Integration", "DevOps", "AWS", "Azure", "Cloud Computing", "Linux", "Docker", "C#", "Java", "Go", "JavaScript", "TypeScript", "Node.js", "Express", "MongoDB", "PostgreSQL", "Business Administration", "Accounting", "Finance", "Economics", "Banking", "Lending", "Investments", "Financial Planning", "Customer Service", "Concierge", "Digital Literacy", "Technology Education", "Community Outreach", "Technical Support", "Problem-Solving", "Teamwork", "Communication", "Adaptability", "Continuous Learning")
