@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  "build": {
+    // Path is relative to the devcontainer.json file.
+    "dockerfile": "Dockerfile"
+  },
+  "containerUser": "vscode",
+  "remoteUser": "vscode",
+  "runArgs": [
+    // run container as current user
+    "--userns=keep-id",
+    // disable selinux isolation that breaks bind mounts
+    "--security-opt=label=disable"
+  ]
+}
