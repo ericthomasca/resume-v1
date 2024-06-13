@@ -1,7 +1,0 @@
-[init]
-	defaultBranch = main
-[credential]
-	helper = "!f() { /home/eric/.vscode-server/bin/dc96b837cf6bb4af9cd736aa3af08cf8279f7685/node /tmp/vscode-remote-containers-10451f07-fbdf-4212-9c1e-320367cc7918.js git-credential-helper $*; }; f"
-[user]
-	name = Eric Thomas
-	email = eric@ericthomas.ca
